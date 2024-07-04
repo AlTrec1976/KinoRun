@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KinoRun", "KinoRun\KinoRun.csproj", "{D204750F-FFFC-4F58-9A88-34D52DE4959F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutoUpdater", "..\AutoUpdater\AutoUpdater\AutoUpdater.csproj", "{B9A38E58-97A5-420A-97C6-EC8B35D61CDF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D204750F-FFFC-4F58-9A88-34D52DE4959F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D204750F-FFFC-4F58-9A88-34D52DE4959F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D204750F-FFFC-4F58-9A88-34D52DE4959F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D204750F-FFFC-4F58-9A88-34D52DE4959F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B9A38E58-97A5-420A-97C6-EC8B35D61CDF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9A38E58-97A5-420A-97C6-EC8B35D61CDF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9A38E58-97A5-420A-97C6-EC8B35D61CDF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9A38E58-97A5-420A-97C6-EC8B35D61CDF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
